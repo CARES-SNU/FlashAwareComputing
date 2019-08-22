@@ -23,7 +23,7 @@ Based on the basic understanding on flash-based storage systems, students are ex
 
 ### Course Organization 
 This course consists of two main parts:   
-**Part 1: Lectures on Key Components of Flash-based Storage Systems**
+**Part 1: Lectures on Key Components of Flash-based Storage Systems**  
 Topics include:  
  - NAND Flash Basics
  - Flash Translation Layers
