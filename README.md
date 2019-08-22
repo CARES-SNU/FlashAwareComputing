@@ -46,26 +46,26 @@ For more details please check out [Syllabus](http://cares.snu.ac.kr/?module=Boar
 <br/>   
 
 
-Week | Topic
------------- | -------------
-Week 1 | [Flash-Aware ComputingCourse Information](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=5&iBrdContNo=4&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1)
-Week 2 | Content in the second column
-Week 3 | Content from cell 2
-Week 4 | Content in the second column
-Week 5 | Content from cell 2
-Week 6 | Content in the second column
-Week 7 | Content from cell 2
-Week 8 | Content in the second column
-Week 9 | Content from cell 2
-Week 10 | Content in the second column
-Week 11 | Content from cell 2
-Week 12 | Content in the second column
-Week 13 | Content from cell 2
-Week 14 | Content in the second column
-Week 15 | Content from cell 2
-Week 16 | Content in the second column
-Week 17 | Content from cell 2
-Week 18 | Content in the second column
+Week | Topic | Slides  
+------------ | ------------- | -------------
+Week 1 | Flash-Aware ComputingCourse Information | [pdf]()
+Week 2 | Overview of Flash and SSDs | [pdf]()
+Week 3 | Overview of NAND Flash Memory | [pdf]()
+Week 4 | Basics of Storage Systems | [pdf]()
+Week 5 | Overview of Flash Management SW | [pdf]()
+Week 6 | Overview of Flash Translation Layer| [pdf]()
+Week 7 | FTL Address Mapping Techniques | [pdf]()
+Week 8 | Hybrid Mapping-basedFlash Translation Layer | [pdf]()
+Week 9 | Garbage Collection Technique | [pdf]()
+Week 10 | Wear-Leveling Techniques | [pdf]()
+Week 11 | Data Separation Techniques | [pdf]()
+Week 12 | Lifetime Issues & Techniques | [pdf]()
+Week 13 | Buffer Management Techniques | [pdf]()
+Week 14 | Advanced Flash Translation Layer | [pdf]()
+Week 15 | Flash Controller | [pdf]()
+Week 16 | SSD Architecture and System-level Controllers | [pdf]()
+Week 17 | Flash-aware File System | [pdf]()
+Week 18 | Host-Managed Flash | [pdf]()
 
 
 
