@@ -34,8 +34,8 @@ Topics include:
 
 
 **Part 2: Recent Topics in Flash-based Storage Systems**   
- - Students present recent flash-related papers from top systems conferences such as
-</br>FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
+ - Students present recent flash-related papers from top systems conferences such as  
+</br> FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
 
 
 
