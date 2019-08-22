@@ -39,7 +39,7 @@ Topics include:
 
 For more details please check out [Syllabus](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=5&iBrdContNo=4&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1).
 
-------
+<hr>
 ## Course Schedule 
 
 
