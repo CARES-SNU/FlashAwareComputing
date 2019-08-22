@@ -67,13 +67,3 @@ Week 16 | SSD Architecture and System-level Controllers | [pdf](https://drive.go
 Week 17 | Flash-aware File System | [pdf](https://drive.google.com/file/d/1AaOeWTkTgfGQRbuQEgu0Erl1rw-ZD_ok/view?usp=sharing)
 Week 18 | Host-Managed Flash | [pdf](https://drive.google.com/file/d/19D1EldXXfLg6sBdZTZMseGXXMOHjKL09/view?usp=sharing)
 
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CARES-SNU/FlashAwareComputing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
