@@ -19,3 +19,5 @@ description: Flash-Aware Computing (내장형시스템 특강)
 
 # baseurl should be an empty string
 #baseurl: ""
+github:
+  is_project_page: false
