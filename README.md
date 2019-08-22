@@ -10,6 +10,11 @@ This course covers various up-to-date research topics on embedded systems. <br/>
 It is intended primarily for advanced graduate students in the field of embedded systems. <br/>
 Recent conference papers as well as journal papers are used in the course.
 
+### Course Goal 
+This course prepares graduate students for advanced research in flash-based storage systems/architecture areas.  <br/> 
+The core part of the course introduces key components of flash-based storage systems (such as SSDs) in a comprehensive fashion starting from NAND flash cells to flash translation layer to systems software.  <br/> 
+Based on the basic understanding on flash-based storage systems, students are exposed to current research topics in flash-related areas by studying recent technical papers from top systems conferences. <br/> 
+
 ### Prerequisites 
 * Undergraduate Operating Systems or equivalent 
 * Undergraduate Computer Architecture or equivalent 
