@@ -1,5 +1,6 @@
 # Welcome to Flash-Aware Computing 
 <br/>
+======
 ## Course Information
 ### Instructor 
 [Jihong Kim](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=1&iBrdContNo=84&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) <br/>
@@ -55,6 +56,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+======
 
 Week | Topic
 ------------ | -------------
