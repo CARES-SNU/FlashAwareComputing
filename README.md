@@ -11,6 +11,8 @@ It is intended primarily for advanced graduate students in the field of embedded
 Recent conference papers as well as journal papers are used in the course.
 
 ### Prerequisites 
+* 4190.307 Undergraduate Operating Systems or equivalent 
+* 4190.308 Undergraduate Computer Architecture or equivalent 
 
 
 ```markdown
