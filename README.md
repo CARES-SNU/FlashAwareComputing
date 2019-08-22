@@ -1,6 +1,6 @@
 # Welcome to Flash-Aware Computing 
 <br/>
-======
+------
 ## Course Information
 ### Instructor 
 [Jihong Kim](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=1&iBrdContNo=84&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) <br/>
@@ -12,8 +12,8 @@ It is intended primarily for advanced graduate students in the field of embedded
 Recent conference papers as well as journal papers are used in the course.
 
 ### Course Goal 
-This course prepares graduate students for advanced research in flash-based storage systems/architecture areas.  <br/> 
-The core part of the course introduces key components of flash-based storage systems (such as SSDs) in a comprehensive fashion starting from NAND flash cells to flash translation layer to systems software.  <br/> 
+This course prepares graduate students for advanced research in flash-based storage systems/architecture areas. 
+The core part of the course introduces key components of flash-based storage systems (such as SSDs) in a comprehensive fashion starting from NAND flash cells to flash translation layer to systems software.
 Based on the basic understanding on flash-based storage systems, students are exposed to current research topics in flash-related areas by studying recent technical papers from top systems conferences. <br/> 
 
 ### Prerequisites 
@@ -56,7 +56,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-======
+------
+
 
 Week | Topic
 ------------ | -------------
