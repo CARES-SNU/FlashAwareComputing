@@ -38,30 +38,15 @@ Topics include:
    FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
 
 
+For more details please check out [Syllabus](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=5&iBrdContNo=4&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ------
+## Course Schedule 
 
 
 Week | Topic
 ------------ | -------------
-Week 1 | Content from cell 2
+Week 1 | [Flash-Aware ComputingCourse Information](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=5&iBrdContNo=4&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1)
 Week 2 | Content in the second column
 Week 3 | Content from cell 2
 Week 4 | Content in the second column
@@ -82,7 +67,6 @@ Week 18 | Content in the second column
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
