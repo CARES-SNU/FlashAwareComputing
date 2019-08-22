@@ -3,12 +3,11 @@ theme: jekyll-theme-cayman
 
 
 # --- General options --- #
-
-# Name of website
-title: Flash-Aware Computing 
+title: [Flash-Aware Computing]
+description: [Seoul National University
+              Computer ARchitecture & Embedded Systems Laboratory]
 
 # Short description of your site
-description: Flash-Aware Computing (내장형시스템 특강)  
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
