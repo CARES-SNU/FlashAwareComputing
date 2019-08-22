@@ -1,12 +1,17 @@
 # Welcome to Flash-Aware Computing 
 
-You can use the [editor on GitHub](https://github.com/CARES-SNU/FlashAwareComputing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Course Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructor 
+Jihong Kim 
+Professor, Dept. of Computer Science and Engineering, SNU 
 
 ### Course Description
 
 This course covers various up-to-date research topics on embedded systems. It is intended primarily for advanced graduate students in the field of embedded systems. Recent conference papers as well as journal papers are used in the course.
+
+### Prerequisites 
+
 
 ```markdown
 Syntax highlighted code block
