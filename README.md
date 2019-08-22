@@ -1,13 +1,11 @@
-# Flash-Aware Computing 
+# Welcome to Flash-Aware Computing 
 
 ## Course Information
-
 ### Instructor 
 Jihong Kim 
 Professor, Dept. of Computer Science and Engineering, SNU 
 
 ### Course Description
-
 This course covers various up-to-date research topics on embedded systems. It is intended primarily for advanced graduate students in the field of embedded systems. Recent conference papers as well as journal papers are used in the course.
 
 ### Prerequisites 
