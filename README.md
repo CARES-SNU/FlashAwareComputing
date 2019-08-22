@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/CARES-SNU/FlashAwareComput
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Course Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This course covers various up-to-date research topics on embedded systems. It is intended primarily for advanced graduate students in the field of embedded systems. Recent conference papers as well as journal papers are used in the course.
 
 ```markdown
 Syntax highlighted code block
