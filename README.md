@@ -1,4 +1,4 @@
-# Welcome to Flash-Aware Computing 
+# Flash-Aware Computing 
 
 ## Course Information
 
