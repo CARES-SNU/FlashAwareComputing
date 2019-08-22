@@ -27,7 +27,7 @@ Topics include:
  - Host/Application Managed Flash Issues
 
 
-**Part 2: Recent Topics in Flash-based Storage Systems**
+**Part 2: Recent Topics in Flash-based Storage Systems**   
 Students present recent flash-related papers from top systems conferences such as
 FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
 
