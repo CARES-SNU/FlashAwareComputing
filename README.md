@@ -11,8 +11,26 @@ It is intended primarily for advanced graduate students in the field of embedded
 Recent conference papers as well as journal papers are used in the course.
 
 ### Prerequisites 
-* 4190.307 Undergraduate Operating Systems or equivalent 
-* 4190.308 Undergraduate Computer Architecture or equivalent 
+* Undergraduate Operating Systems or equivalent 
+* Undergraduate Computer Architecture or equivalent 
+
+
+### Course Organization 
+This course consists of two main parts:
+- Part 1: Lectures on Key Components of Flash-based Storage Systems  
+Topics include:  
+ - NAND Flash Basics
+ - Flash Translation Layers
+ - SSD Architecture
+ - Flash-Aware Operating System Issues
+ - Flash-Aware File System Issues
+ - Host/Application Managed Flash Issues
+
+
+-Part 2: Recent Topics in Flash-based Storage Systems
+Students present recent flash-related papers from top systems conferences such as
+FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
+
 
 
 ```markdown
@@ -32,6 +50,29 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+Week | Topic
+------------ | -------------
+Week 1 | Content from cell 2
+Week 2 | Content in the second column
+Week 3 | Content from cell 2
+Week 4 | Content in the second column
+Week 5 | Content from cell 2
+Week 6 | Content in the second column
+Week 7 | Content from cell 2
+Week 8 | Content in the second column
+Week 9 | Content from cell 2
+Week 10 | Content in the second column
+Week 11 | Content from cell 2
+Week 12 | Content in the second column
+Week 13 | Content from cell 2
+Week 14 | Content in the second column
+Week 15 | Content from cell 2
+Week 16 | Content in the second column
+Week 17 | Content from cell 2
+Week 18 | Content in the second column
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
