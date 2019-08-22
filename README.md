@@ -38,7 +38,6 @@ Topics include:
    FAST, ATC, EUROSYS, ISCA, MICRO and DAC.
 
 
-For more details please check out [Syllabus](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=5&iBrdContNo=4&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1).
 
 <hr>
 
@@ -48,6 +47,7 @@ For more details please check out [Syllabus](http://cares.snu.ac.kr/?module=Boar
 
 Week | Topic | Slides  
 ------------ | ------------- | -------------
+Week 0 | Syllabus | [pdf]()
 Week 1 | Flash-Aware ComputingCourse Information | [pdf]()
 Week 2 | Overview of Flash and SSDs | [pdf]()
 Week 3 | Overview of NAND Flash Memory | [pdf]()
